@@ -1,0 +1,59 @@
+html {text-align: center;
+height: 100%	
+}
+
+* {margin: 0px auto
+}
+
+body {
+	background:url("../images/Hangman.jpg");
+	height: 100%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+}
+
+h1 {
+	text-align: left;
+	text-decoration: underline;
+	margin-left: 10px;
+	color: #e0e0e0;
+	font-weight: 700;
+	font-size: 100px;
+}
+
+.container {
+	clear: both;
+	float: left;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+	font-size: 22px;
+}
+
+#main {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+	font-size: 22px;
+}
+
+.col-lg-12 {
+}
+
+.col-lg-8 {
+	
+}
+
+.col-lg-4{
+	width: 592px;
+	height: 250px;
+}
+
+img {
+	position: relative;
+	height: 270px;
+	left: 900px;
+	top:-500px;
+}
